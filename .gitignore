@@ -120,7 +120,11 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+<<<<<<< HEAD
 .env
+=======
+#.env
+>>>>>>> remotes/origin/student_topic4_lesson5
 .venv
 env/
 venv/
